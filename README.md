@@ -2,10 +2,10 @@ Hi, I'm Inayat
 
   Tech Stack
 - Backend: .NET Core, ASP.NET Web API
-- Frontend: Angular
-- Database: SQL Server, PostgreSQL
-- Languages: C#, Java
-- Tools: Git, Postman, EF Core
+- Frontend: Angular,Css,Bootstrap,Tailwind,JQuery
+- Database: SQL Server, PostgreSQL,Maria Db
+- Languages: C#, Java,c,C++
+- Tools: Git, Postman, EF Core,Render
 
   Current Focus
 - Enterprise-level backend architecture
