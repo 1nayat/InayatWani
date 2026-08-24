@@ -9,7 +9,7 @@ I focus on building scalable REST APIs, implementing secure authentication syste
 - Frontend: Angular,Css,Bootstrap,Tailwind,JQuery
 - Database: SQL Server, PostgreSQL,Maria Db
 - Languages: C#, Java,c,C++
-- Tools: Git, Postman, EF Core,Render
+- Tools: Git, Postman, EF Core,Render 
 
   Current Focus
 - Enterprise-level backend architecture
