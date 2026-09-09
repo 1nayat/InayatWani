@@ -7,7 +7,7 @@ I focus on building scalable REST APIs, implementing secure authentication syste
   Tech Stack
 - Backend: .NET Core, ASP.NET Web API
 - Frontend: Angular,Css,Bootstrap,Tailwind,JQuery
-- Database: SQL Server, PostgreSQL,Maria Db
+- Database: SQL Server, PostgreSQL,Maria Db 
 - Languages: C#, Java,c,C++
 - Tools: Git, Postman, EF Core,Render 
 
